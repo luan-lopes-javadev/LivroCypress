@@ -40,5 +40,5 @@ describe('template spec', () => {
       cy.get('.btn-download-book').click()
       
     })
- })
-});
+  })
+})
